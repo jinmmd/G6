@@ -1,8 +1,8 @@
 {
   "assets": {
-    "-worker.js": "/ebe6b446-worker.6b332808.js",
-    "antv_layout_wasm_bg.wasm": "/antv_layout_wasm_bg.fd2ce19b.wasm",
-    "umi.css": "/umi.08146a7d.css",
-    "umi.js": "/umi.c6c4d7f7.js"
+    "-worker.js": "/c29daa4f-worker.6117de0e.js",
+    "antv_layout_wasm_bg.wasm": "/antv_layout_wasm_bg.9e8aea37.wasm",
+    "umi.css": "/umi.2dbf8a05.css",
+    "umi.js": "/umi.11a69a25.js"
   }
 }
