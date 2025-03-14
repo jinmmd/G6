@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 216 Generated at: 2025-03-14 10:41:31 -->
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/introduction</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/case/graphDemos/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/feature/default/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/scene-case/default/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/scene-case/tree-graph/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/force-directed/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/snake/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/base-node</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/data</loc>
+    <priority>0.89</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/graph/option</loc>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/edge/build-in/base-edge</loc>
+    <priority>0.87</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/overview</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/combo/build-in/base-combo</loc>
+    <priority>0.84</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/overview</loc>
+    <priority>0.84</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/overview</loc>
+    <priority>0.84</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/edge/build-in/polyline</loc>
+    <priority>0.84</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/fix-element-size</loc>
+    <priority>0.83</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/click-select</loc>
+    <priority>0.83</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/brush-select</loc>
+    <priority>0.83</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/lasso-select</loc>
+    <priority>0.83</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/auto-adapt-label</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/toolbar</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/drag-canvas</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/graph/graph</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/overview</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/scroll-canvas</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/whats-new/upgrade</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/edge/overview</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/combo/overview</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/theme/palette</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/further-reading/coordinate</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/tooltip</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/edge/build-in/cubic</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/optimize-viewport-transform</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/getting-started/quick-start</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/collapse-expand</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/edge-filter-lens</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/fisheye</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/hover-activate</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/shape/overview</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/transform/build-in/map-node-size</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/create-edge</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/contextmenu</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/donut</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/custom-node</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/edge/build-in/quadratic</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/edge/custom-edge</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/combo/custom-combo</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/custom-element</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/zoom-canvas</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/minimap</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/watermark</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/further-reading/event</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/overview</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/legend</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/transform/overview</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/further-reading/3d</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/snake</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/whats-new/feature</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/focus-element</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/custom-behavior</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/snapline</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/timebar</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/custom-plugin</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/theme/custom-theme</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/theme/custom-palette</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/shape/properties</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/fishbone</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/background</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/camera-setting</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/animation/animation</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/edge/build-in/cubic-horizontal</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/edge/build-in/cubic-vertical</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/edge/build-in/line</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/combo/build-in/circle-combo</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/combo/build-in/rect-combo</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/drag-element</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/bubble-sets</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/edge-bundling</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/fullscreen</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/grid-line</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/plugin/build-in/hull</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/getting-started/step-by-step</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/custom-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/transform/build-in/place-radial-labels</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/transform/build-in/process-parallel-edges</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/getting-started/installation</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/getting-started/integration/react</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/getting-started/integration/vue</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/getting-started/integration/angular</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/graph/extension</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/state</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/antv-dagre-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/circular-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/combo-combined-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/compact-box-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/concentric-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/d3-force-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/d3-force3-d-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/dagre-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/dendrogram-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/force-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/force-atlas2-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/fruchterman-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/grid-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/indented-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/mds-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/mindmap-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/radial-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/random-layout</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/behavior/build-in/drag-element-force</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/animation/custom-animation</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/graph/extensions</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/circle</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/diamond</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/ellipse</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/hexagon</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/html</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/image</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/rect</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/star</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/triangle</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/further-reading/download-image</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/faq</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/react-node</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/transform/custom-transform</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/theme/overview</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/further-reading/renderer</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/further-reading/iconfont</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/further-reading/bundle</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/contribute</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/indented/</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/circular/</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/mindmap/</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/radial/</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/dagre/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/compact-box/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/dendrogram/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/combo-layout/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/concentric/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/grid/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/data/overview</loc>
+    <priority>0.64</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/snake-layout</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/layout/build-in/fishbone-layout</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/donut-node</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/circle-node</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/diamond-node</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/ellipse-node</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/hexagon-node</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/html-node</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/image-node</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/rect-node</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/star-node</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/manual/element/node/build-in/triangle-node</loc>
+    <priority>0.62</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/data</loc>
+    <priority>0.61</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/graph</loc>
+    <priority>0.59</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/event</loc>
+    <priority>0.59</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/viewport</loc>
+    <priority>0.58</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/element</loc>
+    <priority>0.56</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/layout</loc>
+    <priority>0.56</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/plugin</loc>
+    <priority>0.56</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/behavior</loc>
+    <priority>0.55</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/transform</loc>
+    <priority>0.55</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/coordinate</loc>
+    <priority>0.55</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/export-image</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/theme</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/option</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/canvas</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/render</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/element/node/</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/element/edge/</loc>
+    <priority>0.53</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/layouts/antv-dagre-layout</loc>
+    <priority>0.53</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/api/graph/option</loc>
+    <priority>0.52</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/behavior/canvas/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/animation/basic/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/element/custom-edge/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/legend/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/tooltip/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/fruchterman/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/element/label/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/behavior/create-edge/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/behavior/select/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/animation/persistence/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/algorithm/case/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/element/custom-node/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/behavior/fix-element-size/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/behavior/highlight-element/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/animation/viewport/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/fisheye/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/snapline/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/timebar/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/watermark/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/performance/massive-data/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/mechanism/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/custom/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/element/combo/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/toolbar/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/bubble-sets/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/contextMenu/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/edge-bundling/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/edge-filter-lens/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/fullscreen/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/grid-line/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/hull/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/minimap/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/mds/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/layout/sub-graph/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/element/custom-combo/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/behavior/combo/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/behavior/focus/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/behavior/inner-event/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/behavior/update-label/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/background/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>http://g6.antv.antgroup.com/examples/plugin/history/</loc>
+    <priority>0.50</priority>
+  </url>
+
+</urlset>
